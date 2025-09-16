@@ -1,6 +1,12 @@
 # 🌍 Global Economic Development (1960–2018)  
 
-### 📊 An Exploratory Data Analysis of GDP, Population, HDI & Electricity Consumption  
+### 📊 An Exploratory Data Analysis and Visualization of GDP, Population, HDI & Electricity Consumption  
+
+This is a code-free report of my analysis. It highlights approach and insights with advanced visualizations
+
+🔗 **Live report:** https://ayushlekhi123.github.io/AtliQ-Hospitality-Analysis--Python/
+
+📬 **Code availability:** Full notebook available on request for interview/recruiting purposes.
 
 ---
 
