@@ -81,10 +81,3 @@ The analysis uses **data storytelling and visualization** to highlight regional 
 - 🌐 **Middle-income countries:** break the middle-income trap via innovation & inclusive growth.  
 - 💡 **High-income countries:** address aging populations, lead in clean energy, and support global development.  
 
----
-
-## 📂 Repository Structure  
-```text
-├── WorldEconomicReport.html # Full analysis & visualizations
-├── Presentation.pdf # Detailed insights and recommendations
-├── README.md # Project overview (this file)
