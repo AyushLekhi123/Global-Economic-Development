@@ -4,7 +4,7 @@
 
 This is a code-free report of my analysis. It highlights approach and insights with advanced visualizations
 
-🔗 **Live report:** https://ayushlekhi123.github.io/AtliQ-Hospitality-Analysis--Python/
+🔗 **Live report:** https://ayushlekhi123.github.io/Global-Economic-Development/
 
 📬 **Code availability:** Full notebook available on request for interview/recruiting purposes.
 
