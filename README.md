@@ -78,6 +78,7 @@ The analysis uses **data storytelling and visualization** to highlight regional 
 ---
 
 ## 📂 Repository Structure  
+```text
 ├── WorldEconomicReport.html # Full analysis & visualizations
 ├── Presentation.pdf # Detailed insights and recommendations
 ├── README.md # Project overview (this file)
